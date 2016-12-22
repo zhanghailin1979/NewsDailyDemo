@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#b30625</color>
+    <color name="colorPrimaryDark">#b30625</color>
+    <color name="colorAccent">#b30625</color>
+    <color name="white">#ffffff</color>
+    <color name="white_tint">#a2ffffff</color>
+    <color name="item_press">#b30625</color>
+    <color name="gray">#3b3b3b</color>
+    <color name="deepGray">#181818</color>
+    <color name="password">#a0b30625</color>
+    <color name="login_press">#8c0008</color>
+    <color name="login_normal">#c91923</color>
+    <color name="timerColor">#8f8f8f</color>
+    <color name="black">#000000</color>
+    <color name="lett_menu_select">#33c85555</color>
+    <color name="lett_menu_normal">#00c85555</color>
+    <color name="comment_color">#e7ce53</color>
+    <color name="thin_grey">#d9d9d9</color>
+</resources>
